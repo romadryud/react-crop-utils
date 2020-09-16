@@ -1,0 +1,31 @@
+{
+  "name": "react-crop-utils",
+  "version": "1.0.0",
+  "description": "React crop utils such as base64 string to file and get resized canvas",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romadryud/react-crop-utils.git"
+  },
+  "keywords": [
+    "react",
+    "crop",
+    "utils",
+    "base64 string to file",
+    "get resized canvas"
+  ],
+  "author": "Raman Aktsisiuk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/romadryud/react-crop-utils/issues"
+  },
+  "homepage": "https://github.com/romadryud/react-crop-utils#readme",
+  "devDependencies": {
+    "typescript": "^3.9.6"
+  }
+}
