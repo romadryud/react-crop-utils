@@ -1,4 +1,8 @@
 # react-crop-utils
+![npm](https://img.shields.io/npm/v/react-crop-utils)
+![npm bundle size](https://img.shields.io/bundlephobia/min/react-crop-utils)
+![npm type definitions](https://img.shields.io/npm/types/react-crop-utils)
+
 Utilities for working with image cropping which may be useful. List of available utilities:
 
 - [Base64 string to file](#Usage-base64StringToFile)

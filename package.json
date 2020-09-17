@@ -1,6 +1,6 @@
 {
   "name": "react-crop-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utilities for working with image cropping which may be useful",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
