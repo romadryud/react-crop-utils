@@ -1,7 +1,7 @@
 {
   "name": "react-crop-utils",
   "version": "1.0.0",
-  "description": "React crop utils such as base64 string to file and get resized canvas",
+  "description": "Utilities for working with image cropping which may be useful",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
